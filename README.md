@@ -14,12 +14,13 @@ To build a model that can accurately predict car prices using historical data.
 
 ##  Dataset
 The dataset contains details like:
-- Car Name
+- Car_Name
 - Year
-- Selling Price
-- Present Price
-- Fuel Type
-- Seller Type
+- Selling_Price
+- Present_Price
+- Driven_kms
+- Fuel_Type
+- Seller_Type
 - Transmission
 - Owner
 
